@@ -1,4 +1,4 @@
-# apnacollage-demo
+c# apnacollage-demo
 Author - Reetesh sahu
 <br>
-this is my first gitrepository
+this is my first gitrepository(apna collage)
